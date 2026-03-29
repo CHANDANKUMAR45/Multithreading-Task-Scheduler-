@@ -110,7 +110,8 @@ g++ -std=c++17 -pthread main.cpp -o scheduler
 
 **Chandan Kumar**
 Email: [chandankumarin03@gmail.com](mailto:chandankumarin03@gmail.com)
-GitHub: https://github.com/chandan57
+---
+GitHub: https://github.com/CHANDANKUMAR45
 
 ---
 
