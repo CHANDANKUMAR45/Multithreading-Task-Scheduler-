@@ -109,6 +109,7 @@ g++ -std=c++17 -pthread main.cpp -o scheduler
 ## 👨‍💻 Author
 
 **Chandan Kumar**
+---
 Email: [chandankumarin03@gmail.com](mailto:chandankumarin03@gmail.com)
 ---
 GitHub: https://github.com/CHANDANKUMAR45
@@ -120,7 +121,3 @@ GitHub: https://github.com/CHANDANKUMAR45
 Feel free to fork, improve, and contribute to this project.
 
 ---
-
-## 📌 Resume Description (Use this)
-
-Built a multithreaded task scheduler using C++ with thread pool and task queue, enabling efficient parallel execution using mutex and condition variables, demonstrating strong understanding of concurrency and OS concepts.
